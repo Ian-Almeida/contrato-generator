@@ -1,20 +1,20 @@
 {
   "files": {
     "main.css": "/contrato-generator/static/css/main.b8356a9f.chunk.css",
-    "main.js": "/contrato-generator/static/js/main.f1911e1a.chunk.js",
-    "main.js.map": "/contrato-generator/static/js/main.f1911e1a.chunk.js.map",
+    "main.js": "/contrato-generator/static/js/main.5956a76e.chunk.js",
+    "main.js.map": "/contrato-generator/static/js/main.5956a76e.chunk.js.map",
     "runtime-main.js": "/contrato-generator/static/js/runtime-main.91031af9.js",
     "runtime-main.js.map": "/contrato-generator/static/js/runtime-main.91031af9.js.map",
-    "static/js/2.8d98e56b.chunk.js": "/contrato-generator/static/js/2.8d98e56b.chunk.js",
-    "static/js/2.8d98e56b.chunk.js.map": "/contrato-generator/static/js/2.8d98e56b.chunk.js.map",
+    "static/js/2.732591c5.chunk.js": "/contrato-generator/static/js/2.732591c5.chunk.js",
+    "static/js/2.732591c5.chunk.js.map": "/contrato-generator/static/js/2.732591c5.chunk.js.map",
     "index.html": "/contrato-generator/index.html",
     "static/css/main.b8356a9f.chunk.css.map": "/contrato-generator/static/css/main.b8356a9f.chunk.css.map",
-    "static/js/2.8d98e56b.chunk.js.LICENSE.txt": "/contrato-generator/static/js/2.8d98e56b.chunk.js.LICENSE.txt"
+    "static/js/2.732591c5.chunk.js.LICENSE.txt": "/contrato-generator/static/js/2.732591c5.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.91031af9.js",
-    "static/js/2.8d98e56b.chunk.js",
+    "static/js/2.732591c5.chunk.js",
     "static/css/main.b8356a9f.chunk.css",
-    "static/js/main.f1911e1a.chunk.js"
+    "static/js/main.5956a76e.chunk.js"
   ]
 }
